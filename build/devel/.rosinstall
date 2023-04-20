@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/huws/catkin_ws/src/zzslam_ros/build/devel/setup.sh

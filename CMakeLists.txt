@@ -62,4 +62,7 @@ set(LIBS
 add_executable(zzslam_ros src/zzslam_ros.cpp)
 target_link_libraries(zzslam_ros ${LIBS})
 
+add_executable(vedio_pub_node src/vedio_pub_node.cpp)
+target_link_libraries(vedio_pub_node ${OpenCV_LIBS} ${catkin_LIBRARIES})
+
 
