@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: zzslam_ros
-Description: Description of zzslam_ros
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

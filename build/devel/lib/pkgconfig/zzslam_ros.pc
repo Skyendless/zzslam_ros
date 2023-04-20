@@ -1,8 +1,0 @@
-prefix=/home/huws/catkin_ws/src/zzslam_ros/build/devel
-
-Name: zzslam_ros
-Description: Description of zzslam_ros
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
